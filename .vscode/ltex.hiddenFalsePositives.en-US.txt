@@ -1,0 +1,4 @@
+{"rule":"CURRENCY","sentence":"^\\QUnder $5,000\n$5,000 - $10,000\n$10,000 - $25,000\nOver $20,000\\E$"}
+{"rule":"CURRENCY","sentence":"^\\QUnder $5,000\n$5,000 - $10,000\n$10,000 - $25,000\nOver $25,000\\E$"}
+{"rule":"CURRENCY","sentence":"^\\QUnder $5,000\n$5,000 - $10,000\n$10,000 - $25,000\nOver $25,000 Web Development\nUI/UX Design\nSEO Optimization\nDigital Marketing\nContent Creation\\E$"}
+{"rule":"CURRENCY","sentence":"^\\QUnder $5,000\n$5,000 - $10,000\n$10,000 - $25,000\nOver $25,000 UI/UX Design\nFrontend Development\nBackend Development\nHosting & Deployment</label><br /> <input type=\"checkbox\" name=\"service5\" id=\"service5\" value=\"Maintenance_Support\" /> <label for=\"service5\">Maintenance & Support</label> </td> </tr> </table> </fieldset> </form> </td> </tr> </table> </body> </html>\\E$"}
